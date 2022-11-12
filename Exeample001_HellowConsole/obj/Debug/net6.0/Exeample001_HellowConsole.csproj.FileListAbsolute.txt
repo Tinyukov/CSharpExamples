@@ -1,0 +1,15 @@
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\bin\Debug\net6.0\Exeample001_HellowConsole.exe
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\bin\Debug\net6.0\Exeample001_HellowConsole.deps.json
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\bin\Debug\net6.0\Exeample001_HellowConsole.runtimeconfig.json
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\bin\Debug\net6.0\Exeample001_HellowConsole.dll
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\bin\Debug\net6.0\Exeample001_HellowConsole.pdb
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\obj\Debug\net6.0\Exeample001_HellowConsole.csproj.AssemblyReference.cache
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\obj\Debug\net6.0\Exeample001_HellowConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\obj\Debug\net6.0\Exeample001_HellowConsole.AssemblyInfoInputs.cache
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\obj\Debug\net6.0\Exeample001_HellowConsole.AssemblyInfo.cs
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\obj\Debug\net6.0\Exeample001_HellowConsole.csproj.CoreCompileInputs.cache
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\obj\Debug\net6.0\Exeample001_HellowConsole.dll
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\obj\Debug\net6.0\refint\Exeample001_HellowConsole.dll
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\obj\Debug\net6.0\Exeample001_HellowConsole.pdb
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\obj\Debug\net6.0\Exeample001_HellowConsole.genruntimeconfig.cache
+C:\Users\bolon\Desktop\Examples\Exeample001_HellowConsole\obj\Debug\net6.0\ref\Exeample001_HellowConsole.dll
